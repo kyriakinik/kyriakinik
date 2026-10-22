@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyriakinik&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyriakinik&layout=compact&theme=radical&hide=c,makefile,assembly,cmake,linker-script" alt="Most Used Languages" />
 </p>
 
 <!--
